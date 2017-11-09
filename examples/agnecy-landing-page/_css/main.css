@@ -366,19 +366,19 @@ h2 {
 }
 
 .second .features-item.setting-icon {
-    background-image: url(/layout/agnecy-landing-page/_img/settings.png);
+    background-image: url(../_img/settings.png);
 }
 
 .second .features-item.pencil-icon {
-    background-image: url(/layout/agnecy-landing-page/_img/pencil.png);
+    background-image: url(../_img/pencil.png);
 }
 
 .second .features-item.diamond-icon {
-    background-image: url(/layout/agnecy-landing-page/_img/diamond.png);
+    background-image: url(../_img/diamond.png);
 }
 
 .second .features-item.truck-icon {
-    background-image: url(/layout/agnecy-landing-page/_img/truck.png);
+    background-image: url(../_img/truck.png);
 }
 
 .second h3 {
